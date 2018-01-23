@@ -60,8 +60,6 @@ iOS平台有一些收费的App支持shadowsocks, 比如
 
 #### 免费shadowsocks账号在这里
 
-是不是找着急了 嘿嘿 什么时候都不忘记赚流量 哇哈哈
-
 ```
 {
   "server" : "free.sstz.info",
