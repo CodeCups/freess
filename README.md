@@ -62,10 +62,10 @@ iOS平台有一些收费的App支持shadowsocks, 比如
 
 ```
 {
-  "server" : "free.sstz.info",
-  "server_port" : 51111,
+  "server" : "sgp.sstz.info",
+  "server_port" : 49949,
   "method" : "aes-256-gcm",
-  "password" : "123456",
+  "password" : "sstz.info",
 }
 ```
 
